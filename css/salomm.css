@@ -1,0 +1,14 @@
+h1{
+  text-align: left;
+  background-color: black;
+  color: white
+  ;
+}
+img{
+  float: right;
+  }
+.p{
+  color: violet;
+  background-color: black;
+  font-size: larger ;
+}
